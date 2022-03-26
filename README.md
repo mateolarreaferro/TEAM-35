@@ -30,8 +30,8 @@ What was originally a common street flier has transfigured into an **interactive
 ## Team Members
 
 - [Rajshree Saraf](https://github.com/rajshreesaraf)
-- [Marcel Bornstein] (https://github.com/marcelisdead)
-- [Mateo Larrea] (https://github.com/mateolarreaferro)
+- [Marcel Bornstein](https://github.com/marcelisdead)
+- [Mateo Larrea](https://github.com/mateolarreaferro)
 
 
 
